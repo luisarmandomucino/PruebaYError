@@ -1,7 +1,51 @@
+body {
+background-color: aqua;
+}
 .container {
     background-color: black;
     color: aliceblue;
     padding: 5px;
     margin: 10px;
-    display: inline-block;
+    display: flex; /*esto permite que se centre*/
+    justify-content: center; /*esto hizo que se centrara*/
+    height: 4vh;   
 }
+
+main { 
+    background-color: white;
+
+    
+}
+
+#div1 { 
+    color: blue;
+    background-color: bisque;
+    margin: 50px;  
+    padding: 10px;
+    text-align: center;
+
+}
+
+h1 { 
+   text-align: center;
+   color: tomato;
+}
+
+/* .btn { 
+    
+    block-size: 20;
+    align-self: center; */
+
+
+#btn1 {
+    
+   background-color: blueviolet;
+
+    
+}
+
+.button { 
+   
+    text-align: center;
+}
+
