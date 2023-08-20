@@ -1,0 +1,7 @@
+.container {
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+}
